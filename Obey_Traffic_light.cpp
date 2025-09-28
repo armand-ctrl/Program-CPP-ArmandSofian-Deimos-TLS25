@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// urutan lampu adalah hijau -> kuning -> merah. hijau selama 20 detik, kuning selama 3 detik, merah selama 80 detik. waktu dimulai dari detik 45, menunjukkan warna kuning hingga detik ke 47
 int main() {
     int waktu;
     cout << "Masukkan waktu dalam detik: ";
@@ -30,4 +29,5 @@ int main() {
     }
     return 0;
 }
+
       
